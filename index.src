@@ -1,0 +1,5 @@
+dummy_obj = {}
+dummy_obj.hello_word = "Yes, hello word."
+dummy_obj.printMsg = function()
+  print self.hello_word
+end function
