@@ -2,5 +2,6 @@
   author: 'Crater 44',
   description: 'This is a package to test gbpm',
   version: '1.0.0',
-  name: 'gbpm test repo'
+  name: 'gbpm test repo',
+  access_token: 'AxV5ko$UQFnoECB0Q'
 }
